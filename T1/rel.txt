@@ -1,0 +1,13 @@
+/* Lucas Eduardo Pereira Martins  - 1013475 */
+
+Funções:
+
+bi_init -> OK
+bi_new -> OK
+bi_sum -> OK
+bi_minus -> OK
+bi_sub -> OK
+bi_shl -> OK
+bi_shr -> OK
+bi_shl -> OK
+bi_mul -> para resultados que possam ser representados pelo número de bits inicializados em bi_init,a função se comporta bem.
